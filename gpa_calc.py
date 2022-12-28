@@ -51,7 +51,7 @@ def main():
 def calc(selected_uni):
     st.markdown('#### :bar_chart: &nbsp; Current GPA Analysis & Module Tracker')
 
-    st.markdown('This feature allows NTU/SUTD/SMU students to keep track of their modules to calculate their CAP and provides a brief analysis on the modules taken. It also allows users to download their analysis as a PDF file and selected module data to an Excel file. For NUS students, please see the more sophisticated app [**here**](https://nus-cap.streamlit.app). ')
+    st.markdown('This feature allows NTU/SUTD/SMU students to keep track of their modules to calculate their CAP and provides a brief analysis on the modules taken. It also allows users to download their analysis as a PDF file and selected module data to an Excel file. For NUS students, please see the NUS-exclusive app [**here**](https://nus-cap.streamlit.app). ')
 
     st.markdown('---')
 
