@@ -7,7 +7,7 @@ A simple web application that is geared toward Singapore university students whi
 - Singapore Management University (SMU)
 - Singapore University of Technology & Design (SUTD)
 
-For National University of Singapore (NUS) students, your exclusive app is [**here**](<https://nus-cap.streamlit.app>).
+For National University of Singapore (NUS) students, view the NUS-exclusive app [**here**](<https://nus-cap.streamlit.app>).
 
 **Link to Web App**:
 
